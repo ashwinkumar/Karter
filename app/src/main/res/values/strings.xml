@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Karter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="driver_id">Driver ID</string>
+    <string name="password">Password</string>
+    <string name="authenticate">Register</string>
+    <string name="title_activity_blank">Blank</string>
+    <string name="title_activity_static_info">StaticInfo</string>
+    <string name="title_activity_accept_ride">AcceptRideActivity</string>
+    <string name="acceptTrip">Accept Trip</string>
+</resources>
